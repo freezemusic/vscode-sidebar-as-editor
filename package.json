@@ -37,7 +37,7 @@
 					"dragAndDropController": {
 						"accepts": [
 							"application/vnd.code.editor",
-							"application/vnd.code.tree.explorer",
+							"text/uri-list",
 							"file"
 						]
 					}
